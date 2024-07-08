@@ -2,6 +2,9 @@
 
 This Python script demonstrates real-time object detection using the YOLOv5 model from Ultralytics. It captures video from the default camera, detects objects in the video frames, and draws bounding boxes around the detected objects.
 
+![Picture1](https://github.com/VibhorX/ObjectDifferentiation/assets/110552245/8f06d115-19ef-4d5a-b141-491f91e7500d)
+
+
 ## Requirements
 
 - Python 3.x
